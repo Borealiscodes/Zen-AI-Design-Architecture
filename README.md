@@ -9,7 +9,7 @@
 The **NDH‑Meta‑Meta‑Index** is the structural coordination manifold of NDH — the place where schemas are defined, indexes are maintained, cross‑manifold rules are formalized, and structural coherence is enforced.
 
 It is:
-
+ 
 - the **schema engine**  
 - the **structural rulebook**  
 - the **cross‑manifold map**  
