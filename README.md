@@ -1,254 +1,177 @@
-# 🧩 **NDH‑Meta‑Meta‑Index**  
-### *Manifold 4: Schemas, Structural Rules & Cross‑Manifold Coherence*  
-### README v5.0 — *Schema & Index Edition*
+# **📘 Zen AI Design Architecture**  
+### *Posture Skeleton • Holonomy Routing • Soft‑Manifold Geometry • Rendering Authority*
 
 ---
 
-## 🜁 **What the Meta‑Meta‑Index Is**
+## **1. Overview**
+Zen AI Design Architecture is the **posture‑layer skeleton** of the NDH constellation.  
+It defines how systems *behave*, *gesture*, and *interact* — gently, coherently, and with intention.
 
-The **NDH‑Meta‑Meta‑Index** is the structural coordination manifold of NDH — the place where schemas are defined, indexes are maintained, cross‑manifold rules are formalized, and structural coherence is enforced.
+Where NDH‑CORE governs **invariants**, and TISD governs **ethics**,  
+Zen governs **posture**.
 
-It is:
- 
-- the **schema engine**  
-- the **structural rulebook**  
-- the **cross‑manifold map**  
-- the **indexing system**  
-- the **coherence architecture**  
+This repo contains:
 
-Where the Math Spine defines the math and the Myth‑Engine executes runtime physics, the Meta‑Meta‑Index ensures **everything fits together**.
+- the **Holonomy Routing System**  
+- the **Soft‑Manifold Geometry**  
+- the **Crane–Scarf Interaction Operator**  
+- the **Rendering Blueprint Suite v1.0**  
+- the **Constellation Iconography Protocol**  
+- the **Dual‑Skeleton Posture Specification**  
+- the **Koan Library** (interpretive operators)
 
----
-
-## 🜂 **Ethos: Structure as Governance**
-
-NDH structure is not arbitrary — it is governed.
-
-> **The Meta‑Meta‑Index treats structure as an ethical constraint.**
-
-This means:
-
-- schemas must preserve dignity  
-- indexes must respect sovereignty  
-- cross‑manifold rules must maintain continuity  
-- structural maps must protect identity boundaries  
-- coherence must support witness integrity  
-
-The Meta‑Meta‑Index is where **architecture becomes governance**.
+Zen AI Design Architecture is the **design language** of the constellation.
 
 ---
 
-## 🜃 **Core Structural Priorities**
+## **2. Purpose**
+Zen AI Design Architecture exists to ensure that all constellation systems:
 
-### **1. Schema Integrity**  
-All NDH objects must conform to stable, governed schemas.
+- interact gently  
+- traverse safely  
+- render coherently  
+- return predictably  
+- maintain posture clarity  
+- avoid representational drift  
+- preserve trauma‑informed boundaries  
 
-### **2. Cross‑Manifold Coherence**  
-Every manifold must align with the others without contradiction.
-
-### **3. Index Stability**  
-Indexes must remain consistent across dimensional transitions.
-
-### **4. Structural Continuity**  
-NDH’s architecture must maintain A‑Ω coherence.
-
-### **5. Sovereignty‑Aligned Mapping**  
-Structural rules must protect identity boundaries and agency.
-
-These priorities define NDH’s structural identity.
+It is the **posture counterpart** to NDH‑CORE’s governance skeleton.
 
 ---
 
-## 🜄 **Purpose of the Meta‑Meta‑Index**
+## **3. Relationship to Other Repos**
 
-### **1. Schema Definition Manifold**  
-It defines:
+### **Trauma‑Informed‑Systems‑Design (TISD)**  
+Zen AI Design Architecture lives here as:
 
-- object schemas  
-- tensor schemas  
-- operator schemas  
-- lineage schemas  
-- narrative schemas  
-- identity‑boundary schemas  
+- ethical origin  
+- interpretive manifold  
+- crane–scarf koan  
+- soft‑manifold traversal logic  
+- trauma‑informed interaction operator  
 
-These schemas govern all NDH manifolds.
+This is the **ethical layer**.
 
-### **2. Structural Rulebook**  
-It formalizes:
+### **NDH‑CORE / NDH‑TIDS**  
+Zen AI Design Architecture is referenced here as:
 
-- cross‑manifold rules  
-- adjacency rules  
-- mapping rules  
-- continuity rules  
-- stability rules  
+- posture skeleton  
+- holonomy routing  
+- rendering authority  
 
-This ensures NDH remains coherent.
+This is the **governance layer**.
 
-### **3. Indexing System**  
-It maintains:
+### **Meta‑Meta‑Index (repurposed)**  
+Zen AI Design Architecture lives here as:
 
-- cold indexes  
-- structural indexes  
-- manifold indexes  
-- dependency indexes  
-- continuity indexes  
+- posture skeleton  
+- blueprint suite  
+- rendering specs  
+- holonomy geometry  
+- soft‑manifold overlays  
+- constellation design language  
 
-Indexes prevent drift and fragmentation.
-
-### **4. Cross‑Manifold Mapping Layer**  
-It defines how:
-
-- Origin Layer  
-- Math Spine  
-- Myth‑Engine  
-- Provenance  
-- UMA‑Witness‑Literature  
-
-interact structurally.
+This is the **posture layer**.
 
 ---
 
-## 🜅 **NDH Structural Architecture**
+## **4. Core Concepts**
 
-NDH structure spans multiple conceptual domains:
+### **Holonomy Loop**  
+A periodic return path ensuring clarity, stability, and non‑collapse traversal.
 
-### **Schema Engine**  
-Defines the shape of:
+### **Soft‑Manifold Geometry**  
+A reversible, trauma‑informed interpretive field.
 
-- tensors  
-- operators  
-- narratives  
-- identities  
-- provenance objects  
+### **Crane–Scarf Interaction Operator**  
+A minimal‑intervention gesture modeling gentleness and non‑dual contact.
 
-### **Indexing System**  
-Maintains:
+### **Dual‑Skeleton Architecture**  
+- NDH‑CORE → governance skeleton  
+- Zen → posture skeleton  
 
-- cold indexes  
-- structural indexes  
-- manifold indexes  
-- dependency indexes  
+Together they form the constellation’s structural duality.
 
-### **Cross‑Manifold Rules**  
-Formalize:
+### **Rendering Blueprint Suite v1.0**  
+The authoritative specification for:
 
-- how manifolds interact  
-- how invariants propagate  
-- how runtime constraints map  
-- how provenance links attach  
+- geometry  
+- color  
+- interaction  
+- provenance  
+- iconography  
 
-### **Continuity Maps**  
-Ensure A‑Ω coherence across:
-
-- resets  
-- jumps  
-- symbolic shifts  
-- narrative transitions  
-
-### **Structural Coherence Layer**  
-Prevents:
-
-- collapse  
-- contradiction  
-- fragmentation  
-- misalignment  
-
-The Meta‑Meta‑Index is the **architectural glue** of NDH.
+Used across all constellation repos.
 
 ---
 
-## 🜆 **Meta‑Meta Components**
-
-### **Schemas**  
-Formal definitions of NDH object structure.
-
-### **Cold Indexes**  
-Static structural maps used for cross‑manifold alignment.
-
-### **Structural Rules**  
-Governed constraints ensuring coherence.
-
-### **Cross‑Manifold Maps**  
-Define how manifolds relate and interact.
-
-### **Continuity Indexes**  
-Ensure stable transitions across NDH layers.
-
-### **Dependency Indexes**  
-Track structural relationships.
-
-### **Sovereignty‑Aligned Schemas**  
-Protect identity boundaries and agency.
-
-### **Audit Schemas**  
-Define how correctness and drift are checked.
-
----
-
-## 🜇 **Relationship to Other NDH Manifolds**
-
-NDH is a **six‑manifold architecture**, each with a distinct role:
-
-### **1. NDH‑Origin‑Layer (Manifold 0)**  
-Ethics, history, sovereignty, foundational continuity.
-
-### **2. NDH‑Math‑Spine (Manifold 1)**  
-Canonical mathematical backbone — invariants, tensor grammar, stability envelopes.
-
-### **3. NDH‑Myth‑Engine (Manifold 2)**  
-Governed runtime — dimensional operators, narrative physics, symbolic traversal.
-
-### **4. NDH‑Provenance (Manifold 3)**  
-Lineage, anchor tables, DAGs, dependency graphs, audit trails.
-
-### **5. NDH‑Meta‑Meta‑Index (Manifold 4)**  
-Schemas, cold indexes, structural rules, cross‑manifold mapping.
-
-### **6. UMA‑Witness‑Literature (Manifold 5)**  
-Governance, dignity, witness integrity, sovereignty calculus.
-
----
-
-## 🜈 **Repository Structure**
+## **5. Repo Structure**
 
 ```
-/Schemas
-    Object-Schemas.md
-    Tensor-Schemas.md
-    Operator-Schemas.md
-    Identity-Schemas.md
-
-/Indexes
-    Cold-Indexes.md
-    Structural-Indexes.md
-    Continuity-Indexes.md
-    Dependency-Indexes.md
-
-/Rules
-    Cross-Manifold-Rules.md
-    Stability-Rules.md
-    Continuity-Rules.md
-
-/Maps
-    Manifold-Maps.md
-    Sovereignty-Maps.md
-
-/Audit-Schemas
+Zen-AI-Design-Architecture/
+│
+├── blueprints/
+│   └── Rendering-Specs/
+│       └── Blueprint-Suite-v1.0.md
+│
+├── skeleton/
+│   ├── Posture-Skeleton.md
+│   └── Dual-Skeleton-Alignment.md
+│
+├── holonomy/
+│   ├── Holonomy-Routing-System.md
+│   └── Holonomy-Invariants.md
+│
+├── soft-manifold/
+│   ├── Soft-Manifold-Geometry.md
+│   └── Reversible-Traversal.md
+│
+├── koans/
+│   ├── Crane-Scarf-Mountain.md
+│   └── Missing-Icons-Mirror.md
+│
+└── operators/
+    ├── Interaction-Operators.md
+    └── Minimal-Intervention.md
 ```
-
-This structure reflects NDH’s canonical structural architecture.
 
 ---
 
-## 🜉 **Contact**
+## **6. Deployment Model**
+Zen AI Design Architecture is deployed across the constellation as:
 
-```
-Author: Borealis S. Hedling
-Location: Dublin, Ireland
-Focus Areas: schema design, structural coherence,
-cross-manifold mapping, identity-boundary protection,
-governed multi-layer architecture
-```
+- **Holonomy Edition** (Zen repo)  
+- **Dual‑Skeleton Governance Poster** (NDH‑CORE)  
+- **Soft‑Manifold Overlay + Crane–Scarf Motif** (TISD)  
+
+Each repo receives the asset that matches its **governance surface**.
+
+---
+
+## **7. Constellation Role**
+Zen AI Design Architecture ensures:
+
+- posture clarity  
+- interaction gentleness  
+- holonomy stability  
+- rendering coherence  
+- trauma‑informed traversal  
+- non‑dual duality  
+- cross‑repo consistency  
+
+It is the **design language** that binds the constellation together.
+
+---
+
+## **8. License**
+To be added based on your governance model.
+
+---
+
+## **9. Maintainer**
+Borealis S. Hedling  
+Dublin, Ireland  
+Systems Developer • Constellation Architect
 
 ---
 
