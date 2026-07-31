@@ -1,4 +1,4 @@
-# **Unified Reflection‑Layer Roadmap v1.0**  
+# **Reflection‑Layer Roadmap — Provenance Version (v1.0)**  
 ### *Strict sequencing for containment → expansion → integration*
 
 ---
@@ -130,7 +130,6 @@ Only the four documents in this roadmap are allowed.
 No deviations allowed.**
 
 ---
-
 
 # 📜 **Provenance Footer**
 
