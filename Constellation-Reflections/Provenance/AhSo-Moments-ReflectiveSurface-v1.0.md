@@ -147,7 +147,6 @@ It is:
 
 ---
 
-
 # 📜 **Provenance Footer**
 
 ```markdown
@@ -166,5 +165,4 @@ Maintainer: Borealis S. Hedling • Dublin, Ireland
 ```
 
 ---
-
 
