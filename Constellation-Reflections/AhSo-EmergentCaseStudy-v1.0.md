@@ -279,6 +279,30 @@ reflective surfaces within Zen-AI-Design-Architecture.
 
 ---
 
+[📐 LANE CLASSIFICATION — REFLECTION GRADE]
+
+Governance Grade (NDH-CORE, TISD, Authority Anchors)
+- governance invariants
+- rendering authority
+- trauma-informed constraints
+- NDH-safe boundaries
+
+Computational Grade (SCI-80)
+- tensors
+- fusion
+- posture math
+- expressive geometry primitives
+
+Reflection Grade (Zen-AI-Design-Architecture)
+- Ah-So Moments
+- insight geometry
+- reflection patterns
+- meta-recognition
+- recursion safety notices
+
+This classification is a structural reference for reflection-layer documents.
+It is not a governance or authority header.
+
 ---
 Provenance: The Ah-So Emergent Case Study v1.0 analyzes the structural reasons
 why Reflection Patterns Spec and Insight Geometry Primer surfaced following the
