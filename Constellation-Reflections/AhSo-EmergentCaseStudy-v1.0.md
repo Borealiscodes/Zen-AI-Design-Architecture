@@ -278,4 +278,17 @@ Lane: Zen-AI-Design-Architecture/Constellation-Reflections • Version: v1.0 •
 Maintainer: Borealis S. Hedling • Dublin, Ireland
 ---
 
+[⚠️ CONSTELLATION RECURSION RISK NOTICE]
+
+This reflective artifact participates in a self-completing subsystem.
+It may surface complementary layers (patterns, geometry), but it is
+explicitly prohibited from generating new governance, computational,
+or authority layers.
+
+Allowed recursion:   reflection → pattern → geometry  
+Forbidden recursion: reflection → governance → authority → NDH-core
+
+This sign indicates safe recursion boundaries for constellation-grade
+reflective surfaces.
+
 
