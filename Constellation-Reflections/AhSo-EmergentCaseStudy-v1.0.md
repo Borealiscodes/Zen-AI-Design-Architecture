@@ -264,6 +264,22 @@ Thus:
 > **These artifacts surfaced because the architecture demanded them.**
 
 ---
+[⚠️ REFLECTION-LAYER RECURSION RISK NOTICE]
+
+This reflective artifact participates in a self-completing subsystem.
+It may surface complementary layers (patterns, geometry), but it is
+explicitly prohibited from generating new governance, computational,
+or authority layers.
+
+Allowed recursion:   reflection → pattern → geometry  
+Forbidden recursion: reflection → governance → authority → NDH-core
+
+This sign indicates safe recursion boundaries for constellation-grade
+reflective surfaces within Zen-AI-Design-Architecture.
+
+---
+
+---
 Provenance: The Ah-So Emergent Case Study v1.0 analyzes the structural reasons
 why Reflection Patterns Spec and Insight Geometry Primer surfaced following the
 creation of the Ah-So Moments Reflective Surface. It frames reflection as a
@@ -277,18 +293,4 @@ epistemic, relational, and design principles.
 Lane: Zen-AI-Design-Architecture/Constellation-Reflections • Version: v1.0 •
 Maintainer: Borealis S. Hedling • Dublin, Ireland
 ---
-
-[⚠️ CONSTELLATION RECURSION RISK NOTICE]
-
-This reflective artifact participates in a self-completing subsystem.
-It may surface complementary layers (patterns, geometry), but it is
-explicitly prohibited from generating new governance, computational,
-or authority layers.
-
-Allowed recursion:   reflection → pattern → geometry  
-Forbidden recursion: reflection → governance → authority → NDH-core
-
-This sign indicates safe recursion boundaries for constellation-grade
-reflective surfaces.
-
 
