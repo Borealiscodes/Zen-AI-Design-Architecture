@@ -1,0 +1,231 @@
+# 🌌 **JSON Rendering Manifest — Radial Cosmology Constellation v1.0**
+
+```json
+{
+  "version": "1.0",
+  "cosmology": "Radial Mountain Cosmology",
+  "layout": {
+    "type": "radial",
+    "background": "transparent",
+    "rings": {
+      "central": 0,
+      "mountains": 240,
+      "stories": 420,
+      "meta": 640
+    }
+  },
+
+  "nodes": {
+    "Cosmic Mountain": {
+      "class": "central",
+      "coords": [0, 0]
+    },
+
+    "Everest": {
+      "class": "mountain",
+      "coords": [240, 0]
+    },
+    "Olympus Mons": {
+      "class": "mountain",
+      "coords": [74.1, 229.0]
+    },
+    "Maxwell Montes": {
+      "class": "mountain",
+      "coords": [-194.1, 140.4]
+    },
+    "Rheasilvia Peak": {
+      "class": "mountain",
+      "coords": [-194.1, -140.4]
+    },
+    "Mons Huygens": {
+      "class": "mountain",
+      "coords": [74.1, -229.0]
+    },
+
+    "Gangkhar Puensum": {
+      "class": "story",
+      "coords": [420, 0]
+    },
+    "Sleeping Mountain Deities": {
+      "class": "story",
+      "coords": [378.7, 182.3]
+    },
+    "The Hunter": {
+      "class": "story",
+      "coords": [261.7, 330.1]
+    },
+    "Breath of the Peaks": {
+      "class": "story",
+      "coords": [92.4, 409.7]
+    },
+
+    "Horizon Between Worlds": {
+      "class": "story",
+      "coords": [-92.4, 409.7]
+    },
+    "Planetary Voices": {
+      "class": "story",
+      "coords": [-261.7, 330.1]
+    },
+
+    "Everest Awakens": {
+      "class": "story",
+      "coords": [-378.7, 182.3]
+    },
+    "Olympus Mons Rises": {
+      "class": "story",
+      "coords": [-420, 0]
+    },
+    "Maxwell Montes Shines": {
+      "class": "story",
+      "coords": [-378.7, -182.3]
+    },
+    "Rheasilvia Remembers": {
+      "class": "story",
+      "coords": [-261.7, -330.1]
+    },
+    "Mons Huygens Sees": {
+      "class": "story",
+      "coords": [-92.4, -409.7]
+    },
+
+    "Stone Memory": {
+      "class": "story",
+      "coords": [92.4, -409.7]
+    },
+    "Silence of Peaks": {
+      "class": "story",
+      "coords": [261.7, -330.1]
+    },
+    "Fire of Origins": {
+      "class": "story",
+      "coords": [378.7, -182.3]
+    },
+
+    "Breath": {
+      "class": "meta",
+      "coords": [640, 0]
+    },
+    "Council": {
+      "class": "meta",
+      "coords": [452.5, 452.5]
+    },
+    "Awakening": {
+      "class": "meta",
+      "coords": [0, 640]
+    },
+    "Stone": {
+      "class": "meta",
+      "coords": [-452.5, 452.5]
+    },
+    "Silence": {
+      "class": "meta",
+      "coords": [-640, 0]
+    },
+    "Fire": {
+      "class": "meta",
+      "coords": [-452.5, -452.5]
+    },
+    "Dust": {
+      "class": "meta",
+      "coords": [0, -640]
+    },
+    "Memory": {
+      "class": "meta",
+      "coords": [452.5, -452.5]
+    }
+  },
+
+  "edges": [
+    ["Cosmic Mountain", "Everest"],
+    ["Cosmic Mountain", "Olympus Mons"],
+    ["Cosmic Mountain", "Maxwell Montes"],
+    ["Cosmic Mountain", "Rheasilvia Peak"],
+    ["Cosmic Mountain", "Mons Huygens"],
+
+    ["Everest", "Gangkhar Puensum"],
+    ["Everest", "Sleeping Mountain Deities"],
+    ["Everest", "The Hunter"],
+    ["Everest", "Breath of the Peaks"],
+    ["Everest", "Everest Awakens"],
+
+    ["Olympus Mons", "Horizon Between Worlds"],
+    ["Olympus Mons", "Planetary Voices"],
+    ["Olympus Mons", "Olympus Mons Rises"],
+
+    ["Maxwell Montes", "Maxwell Montes Shines"],
+    ["Maxwell Montes", "Stone Memory"],
+
+    ["Rheasilvia Peak", "Rheasilvia Remembers"],
+    ["Rheasilvia Peak", "Silence of Peaks"],
+
+    ["Mons Huygens", "Mons Huygens Sees"],
+    ["Mons Huygens", "Fire of Origins"],
+
+    ["Breath", "Breath of the Peaks"],
+    ["Council", "Horizon Between Worlds"],
+    ["Council", "Planetary Voices"],
+    ["Awakening", "Everest Awakens"],
+    ["Awakening", "Olympus Mons Rises"],
+    ["Awakening", "Maxwell Montes Shines"],
+    ["Awakening", "Rheasilvia Remembers"],
+    ["Awakening", "Mons Huygens Sees"],
+    ["Stone", "Stone Memory"],
+    ["Silence", "Silence of Peaks"],
+    ["Fire", "Fire of Origins"],
+    ["Dust", "Planetary Voices"],
+    ["Memory", "Stone Memory"],
+    ["Memory", "Rheasilvia Remembers"]
+  ],
+
+  "styles": {
+    "central": {
+      "radius": 9,
+      "color": "#FFFFFF",
+      "stroke": 2
+    },
+    "mountain": {
+      "radius": 6,
+      "color": "#FFFFFF",
+      "stroke": 2
+    },
+    "story": {
+      "radius": 6,
+      "color": "#CCCCCC",
+      "stroke": 2
+    },
+    "meta": {
+      "radius": 5,
+      "color": "#88CCFF",
+      "stroke": 2
+    },
+    "edges": {
+      "color": "#FFFFFF",
+      "stroke": 2
+    }
+  }
+}
+```
+
+---
+
+
+# 📜 **Provenance Footer**
+
+```text
+---
+Artifact: Radial Cosmology JSON Rendering Manifest
+Lane: Zen-AI-Design-Architecture • Posture Layer • Cosmology / Blueprint
+Purpose: Provides a complete renderer-agnostic configuration for generating the
+radial cosmology constellation, including nodes, coordinates, edges, and style rules.
+Forms the bridge between cosmology logic and SVG geometry generation.
+
+Version: 1.0
+Author: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 03 August 2026 — 23:00 IST
+---
+```
+
+---
+
