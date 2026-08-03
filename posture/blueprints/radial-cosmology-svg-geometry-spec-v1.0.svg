@@ -1,0 +1,123 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="2400"
+  height="2400"
+  viewBox="-1200 -1200 2400 2400">
+
+  <!-- Background -->
+  <rect x="-1200" y="-1200" width="2400" height="2400" fill="none" />
+
+  <!-- Styles (conceptual grouping) -->
+  <!-- central: r=9, #FFFFFF; mountain: r=6, #FFFFFF; story: r=6, #CCCCCC; meta: r=5, #88CCFF; edges: stroke #FFFFFF, 2 -->
+
+  <!-- Central node -->
+  <g id="central">
+    <circle cx="0" cy="0" r="9" fill="#FFFFFF" />
+  </g>
+
+  <!-- Mountain ring -->
+  <g id="mountains" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF">
+    <circle cx="240" cy="0" r="6" id="Everest" />
+    <circle cx="74.1" cy="229.0" r="6" id="Olympus_Mons" />
+    <circle cx="-194.1" cy="140.4" r="6" id="Maxwell_Montes" />
+    <circle cx="-194.1" cy="-140.4" r="6" id="Rheasilvia_Peak" />
+    <circle cx="74.1" cy="-229.0" r="6" id="Mons_Huygens" />
+  </g>
+
+  <!-- Story ring -->
+  <g id="stories" stroke="#FFFFFF" stroke-width="2" fill="#CCCCCC">
+    <circle cx="420" cy="0" r="6" id="Gangkhar_Puensum" />
+    <circle cx="378.7" cy="182.3" r="6" id="Sleeping_Mountain_Deities" />
+    <circle cx="261.7" cy="330.1" r="6" id="The_Hunter" />
+    <circle cx="92.4" cy="409.7" r="6" id="Breath_of_the_Peaks" />
+
+    <circle cx="-92.4" cy="409.7" r="6" id="Horizon_Between_Worlds" />
+    <circle cx="-261.7" cy="330.1" r="6" id="Planetary_Voices" />
+
+    <circle cx="-378.7" cy="182.3" r="6" id="Everest_Awakens" />
+    <circle cx="-420" cy="0" r="6" id="Olympus_Mons_Rises" />
+    <circle cx="-378.7" cy="-182.3" r="6" id="Maxwell_Montes_Shines" />
+    <circle cx="-261.7" cy="-330.1" r="6" id="Rheasilvia_Remembers" />
+    <circle cx="-92.4" cy="-409.7" r="6" id="Mons_Huygens_Sees" />
+
+    <circle cx="92.4" cy="-409.7" r="6" id="Stone_Memory" />
+    <circle cx="261.7" cy="-330.1" r="6" id="Silence_of_Peaks" />
+    <circle cx="378.7" cy="-182.3" r="6" id="Fire_of_Origins" />
+  </g>
+
+  <!-- Meta ring -->
+  <g id="meta" stroke="#FFFFFF" stroke-width="2" fill="#88CCFF">
+    <circle cx="640" cy="0" r="5" id="Breath" />
+    <circle cx="452.5" cy="452.5" r="5" id="Council" />
+    <circle cx="0" cy="640" r="5" id="Awakening" />
+    <circle cx="-452.5" cy="452.5" r="5" id="Stone" />
+    <circle cx="-640" cy="0" r="5" id="Silence" />
+    <circle cx="-452.5" cy="-452.5" r="5" id="Fire" />
+    <circle cx="0" cy="-640" r="5" id="Dust" />
+    <circle cx="452.5" cy="-452.5" r="5" id="Memory" />
+  </g>
+
+  <!-- Edges -->
+  <g id="edges" stroke="#FFFFFF" stroke-width="2" fill="none">
+    <!-- Central to mountains -->
+    <line x1="0" y1="0" x2="240" y2="0" />
+    <line x1="0" y1="0" x2="74.1" y2="229.0" />
+    <line x1="0" y1="0" x2="-194.1" y2="140.4" />
+    <line x1="0" y1="0" x2="-194.1" y2="-140.4" />
+    <line x1="0" y1="0" x2="74.1" y2="-229.0" />
+
+    <!-- Everest edges -->
+    <line x1="240" y1="0" x2="420" y2="0" />
+    <line x1="240" y1="0" x2="378.7" y2="182.3" />
+    <line x1="240" y1="0" x2="261.7" y2="330.1" />
+    <line x1="240" y1="0" x2="92.4" y2="409.7" />
+    <line x1="240" y1="0" x2="-378.7" y2="182.3" />
+
+    <!-- Olympus Mons edges -->
+    <line x1="74.1" y1="229.0" x2="-92.4" y2="409.7" />
+    <line x1="74.1" y1="229.0" x2="-261.7" y2="330.1" />
+    <line x1="74.1" y1="229.0" x2="-420" y2="0" />
+
+    <!-- Maxwell Montes edges -->
+    <line x1="-194.1" y1="140.4" x2="-378.7" y2="-182.3" />
+    <line x1="-194.1" y1="140.4" x2="92.4" y2="-409.7" />
+
+    <!-- Rheasilvia Peak edges -->
+    <line x1="-194.1" y1="-140.4" x2="-261.7" y2="-330.1" />
+    <line x1="-194.1" y1="-140.4" x2="261.7" y2="-330.1" />
+
+    <!-- Mons Huygens edges -->
+    <line x1="74.1" y1="-229.0" x2="-92.4" y2="-409.7" />
+    <line x1="74.1" y1="-229.0" x2="378.7" y2="-182.3" />
+
+    <!-- Meta to story edges -->
+    <line x1="640" y1="0" x2="92.4" y2="409.7" />
+    <line x1="452.5" y1="452.5" x2="-92.4" y2="409.7" />
+    <line x1="452.5" y1="452.5" x2="-261.7" y2="330.1" />
+    <line x1="0" y1="640" x2="-378.7" y2="182.3" />
+    <line x1="0" y1="640" x2="-420" y2="0" />
+    <line x1="0" y1="640" x2="-378.7" y2="-182.3" />
+    <line x1="0" y1="640" x2="-261.7" y2="-330.1" />
+    <line x1="0" y1="640" x2="-92.4" y2="-409.7" />
+    <line x1="-452.5" y1="452.5" x2="92.4" y2="-409.7" />
+    <line x1="-640" y1="0" x2="261.7" y2="-330.1" />
+    <line x1="-452.5" y1="-452.5" x2="378.7" y2="-182.3" />
+    <line x1="0" y1="-640" x2="-261.7" y2="330.1" />
+    <line x1="452.5" y1="-452.5" x2="92.4" y2="-409.7" />
+    <line x1="452.5" y1="-452.5" x2="-261.7" y2="-330.1" />
+  </g>
+</svg>
+
+---
+Artifact: Radial Cosmology SVG Geometry Blueprint Spec
+Lane: Zen-AI-Design-Architecture • Posture Layer • Cosmology / Blueprint
+Purpose: Provides a complete SVG-based geometric realization of the radial cosmology
+constellation, translating renderer-agnostic manifest data into a concrete, inspectable
+vector artifact for visualization and export.
+
+Version: 1.0
+Author: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 03 August 2026 — 23:03 IST
+---
+
