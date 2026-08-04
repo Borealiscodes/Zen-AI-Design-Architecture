@@ -1,0 +1,81 @@
+# **Zen‑AI‑Design‑Architecture Dispatch v1.0**  
+### *FUN Overlay Activation • Developer Dashboard Integration*  
+### *Post‑Constellation‑Stability Era*
+
+```
+{
+  "zen_ai_dispatch": {
+    "dispatch_type": "FUN Overlay Activation",
+    "version": "1.0",
+    "governance_reference": "constellation_governance_v1.3.json",
+    "posture_reference": "Zen-AI-Design-Architecture/posture_skeleton_v1.0.json",
+    "interface_reference": "NDH-Zen-Bridge/interface_invariants_v1.0.json",
+
+    "context": {
+      "constellation_state": "stable",
+      "governance_cycle": "v1.3 sealed",
+      "developer_lane": "active",
+      "fun_overlay_permission": "granted under Zen-AI posture rules"
+    },
+
+    "actions": 
+      {
+        "action": "wrap_readme_v1.3",
+        "description": "Prepare soft archival wrapper ('bwankie mode') for README v1.3 to ensure lineage stability before expressive overlay activation.",
+        "link": "[README v1.3 Wrapper"
+      },
+      {
+        "action": "activate_developer_dashboard",
+        "description": "Initialize NDH‑Constellation Developer Dashboard with governance, subsystem, posture, interface, and ethical monitors.",
+        "link": "Developer Dashboard"
+      },
+      {
+        "action": "enter_zen_ai_design_architecture",
+        "description": "Transition from governance altitude to Zen‑AI expressive altitude via NDH‑Zen‑Bridge read‑up/write‑down rules.",
+        "link": "Zen-AI Architecture"
+      },
+      {
+        "action": "generate_fun_overlay",
+        "description": "Create governed expressive overlay (neon‑future, kawaii‑adjacent, anime‑infused) for Developer Dashboard UI.",
+        "link": "Generate FUN Overlay"
+      }
+    ],
+
+    "fun_overlay_spec": {
+      "style": "neon_future_kawaii",
+      "governance_alignment": "posture_safe",
+      "bridge_rules": "non_contamination_enforced",
+      "expressive_elements": [
+        "soft corner rounding",
+        "constellation sparkle hover effects",
+        "gradient glow borders",
+        "bwankie mode soft theme",
+        "micro animations compliant with posture skeleton"
+      ]
+    },
+
+    "assertion": "FUN Overlay activation is permitted under Zen‑AI‑Design‑Architecture as long as NDH‑Zen‑Bridge invariants remain intact, posture boundaries are respected, and expressive geometry does not contaminate governance lanes."
+  }
+}
+```
+
+---
+
+# **Provenance Footer — Zen‑AI‑Design‑Architecture Dispatch v1.0**
+
+```
+---
+Artifact: Zen‑AI‑Design‑Architecture Dispatch v1.0
+Lane: Zen‑AI‑Design‑Architecture • Expressive Posture • Governed Interface
+Purpose: Formal activation of FUN Overlay sequence following stabilization of
+NDH‑Constellation v1.3 and initialization of Developer Dashboard.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 04 August 2026 — 11:07 IST
+---
+```
+
+---
+
