@@ -1,0 +1,135 @@
+### 🌌 Zen‑AI‑Design‑Architecture — Posture Skeleton v1.0  
+*Posture‑Governance Baseline • Expressive Altitude Limits • Non‑Cognitive Geometry*
+
+---
+
+```json
+{
+  "zen_ai_posture_skeleton": {
+    "version": "1.0",
+    "altitude_model": {
+      "layers": [
+        "governance",
+        "posture",
+        "expressive",
+        "aesthetic"
+      ],
+      "rules": {
+        "posture_not_cognition": true,
+        "stance_not_structure": true,
+        "no_runtime_authority": true,
+        "no_governance_authority": true
+      }
+    },
+
+    "posture_boundaries": {
+      "allows": [
+        "expressive_theming",
+        "visual_metaphor",
+        "soft_geometry",
+        "micro_animation",
+        "non_decisional_ui_affordances"
+      ],
+      "forbids": [
+        "cognitive_geometry",
+        "identity_modeling",
+        "ethical_adjudication",
+        "runtime_decision_authority",
+        "governance_rule_mutation"
+      ]
+    },
+
+    "expressive_geometry_constraints": {
+      "max_altitude": "expressive",
+      "requires_bridge_validation": true,
+      "requires_posture_tag": true,
+      "requires_governance_reference": true,
+      "non_contamination_invariants": [
+        "no_governance_leakage",
+        "no_runtime_leakage",
+        "no_ethical_leakage",
+        "no_identity_merge",
+        "no_domain_merge"
+      ]
+    },
+
+    "interface_contract": {
+      "bridge_reference": "NDH-Zen-Bridge/interface_invariants_v1_0.json",
+      "read_up_rules": [
+        "posture_may_read_governance_metadata",
+        "posture_may_read_runtime_state_summaries"
+      ],
+      "write_down_rules": [
+        "posture_may_write_expressive_overlays",
+        "posture_may_write_non_decisional_ui_hints"
+      ],
+      "forbidden_writes": [
+        "direct_governance_rule_changes",
+        "direct_runtime_state_mutation",
+        "direct_ethical_boundary_changes"
+      ]
+    },
+
+    "fun_overlay_posture_profile": {
+      "style": "neon_future_kawaii",
+      "altitude": "expressive",
+      "requires_posture_safe_flag": true,
+      "requires_bridge_invariants_pass": true,
+      "allowed_elements": [
+        "soft_corner_rounding",
+        "constellation_sparkle_hover_effects",
+        "gradient_glow_borders",
+        "bwankie_mode_soft_theme",
+        "micro_animations_compliant_with_posture_skeleton"
+      ]
+    },
+
+    "governance_alignment": {
+      "governance_spine_reference": "NDH-Constellation/governance/constellation_governance_v1_4.json",
+      "lifecycle_envelope_reference": "NDH-Constellation/governance/lifecycle/governance_spine_v1_4_lifecycle_envelope.json.md",
+      "roadmap_phase_links": {
+        "phase_5_toolkit_ecosystem": "ready",
+        "phase_6_developer_dashboard": "ready",
+        "phase_7_soft_80d_manifold": "defined"
+      }
+    },
+
+    "assertions": {
+      "posture_is_expressive_not_decisional": true,
+      "posture_must_remain_governance_aligned": true,
+      "posture_must_respect_bridge_invariants": true,
+      "posture_must_not_mutate_governance_or_runtime": true
+    }
+  }
+}
+```
+
+---
+
+```text
+---
+Artifact: Zen‑AI‑Design‑Architecture Posture Skeleton v1.0
+Lane: Zen‑AI‑Design‑Architecture • Posture Governance • Expressive Boundaries
+
+Reason: Define the baseline posture skeleton for Zen‑AI, including altitude
+model, posture boundaries, expressive geometry constraints, interface contract
+with NDH‑Zen‑Bridge, FUN Overlay posture profile, and governance alignment to
+Governance Spine v1.4 and its Lifecycle Envelope. Ensures posture is expressive
+not decisional, governance‑aligned, bridge‑validated, and non‑contaminating.
+
+Provenance Anchors:
+  Unified‑Provenance‑Grammar‑v1.0
+  Constellation‑Comparison‑Matrix‑v1.0
+  Integration‑Spine‑Overlay‑v1.0
+  Constellation‑Transformation‑Order‑v1.0
+  Provenance‑Snapshot‑v7.5 (Sealing)
+  Provenance‑Snapshot‑v7.6 (Alignment)
+  NDH‑Constellation Governance Spine v1.4 (Active Edition)
+  Governance Spine v1.4 Lifecycle JSON Envelope (v1.4)
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 05 August 2026 — 06:05 IST
+---
+```
