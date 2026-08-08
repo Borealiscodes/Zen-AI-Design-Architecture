@@ -1,0 +1,205 @@
+# 🌈 **Neon‑Kawaii Skin Specification — v1.1**  
+### *Zen‑AI‑Design‑Architecture • Expressive Overlay Layer*
+
+This version refines v1.0 by adding:
+
+- clearer luminescence parameters  
+- improved emotional harmonic tuning  
+- safer posture‑layer constraints  
+- better NDH‑Constellation adjacency rules  
+- optional “Robotto‑Mode” micro‑accents 🤖 (non‑character, non‑mascot, non‑anthropomorphic)
+
+---
+
+# ⭐ **1. Purpose (v1.1)**
+
+The Neon‑Kawaii Skin v1.1 provides a **gentle luminescent expressive layer** for Zen‑AI‑Design‑Architecture, enhancing clarity and emotional accessibility while preserving:
+
+- posture‑layer stability  
+- triadic grounding  
+- non‑intrusive expressiveness  
+- non‑character kawaii adjacency  
+
+It introduces optional **Robotto‑Mode micro‑accents** — subtle chrome‑neon harmonics inspired by retro‑future robotics aesthetics (not characters, not mascots).
+
+---
+
+# ⭐ **2. Design Principles (v1.1)**
+
+### **2.1 Luminescence Refinement**
+- spectral micro‑glow → now tunable  
+- radiant edges → now gradient‑aware  
+- harmonic operators → now receive “soft pulse” luminescence  
+
+### **2.2 Kawaii‑Adjacency (Non‑Character)**
+Still no mascots, chibi forms, or anime iconography.  
+But v1.1 adds:
+
+- “kind futurism” glyph harmonics  
+- rounded semantic curvature smoothing  
+- pastel‑neon micro‑sparkle modulation  
+
+### **2.3 Calm‑Logic Aesthetic**
+v1.1 enhances:
+
+- triadic grounding  
+- gentle transitions  
+- quiet coherence  
+- emotional accessibility  
+
+---
+
+# ⭐ **3. Application Zones (v1.1)**
+
+### **3.1 Expressive Geometry**
+- radiant edges → now adaptive  
+- micro‑sparkle gradients → now density‑aware  
+
+### **3.2 NDH‑Constellation (Posture‑Safe Mode)**
+- luminescent constellations → now adjacency‑safe  
+- narrative density glow → now reversible  
+
+### **3.3 Dispatches/Zen**
+- pastel‑neon header accents → now contrast‑balanced  
+
+### **3.4 Reference/Zen**
+- kawaii‑adjacent glyphs → now stability‑anchored  
+
+---
+
+# ⭐ **4. Constraints (v1.1)**
+
+The Neon‑Kawaii Skin:
+
+- does **not** alter computational behavior  
+- does **not** introduce characters  
+- does **not** modify NDH‑CORE governance  
+- does **not** interfere with rendering logic  
+- does **not** cross into governance altitude  
+- does **not** contaminate posture boundaries  
+
+It is purely expressive.
+
+---
+
+# ⭐ **5. Neon‑Kawaii Skin — JSON Specification (v1.1)**  
+### *Machine‑Readable • Posture‑Layer Safe*
+
+```json
+{
+  "artifact": "Zen-AI-Neon-Kawaii-Skin",
+  "version": "1.1",
+  "lane": "expressive_overlay",
+  "altitude": "posture_layer",
+  "description": "Refined luminescent and kawaii-adjacent expressive overlay for Zen-AI-Design-Architecture.",
+  "principles": {
+    "luminescence": {
+      "intensity": "low",
+      "pulse_mode": "soft",
+      "gradient_awareness": true,
+      "accent_targets": [
+        "holonomy_paths",
+        "harmonic_operators",
+        "expressive_geometry_nodes"
+      ]
+    },
+    "kawaii_adjacency": {
+      "style": "non_character",
+      "features": [
+        "rounded_semantic_contours",
+        "soft_color_metaphors",
+        "emotional_harmonics",
+        "kind_futurism",
+        "pastel_neon_micro_sparkle"
+      ]
+    },
+    "calm_logic": {
+      "traits": [
+        "quiet_coherence",
+        "gentle_transitions",
+        "triadic_grounding",
+        "non_intrusive_expressiveness"
+      ]
+    },
+    "robotto_mode": {
+      "enabled": true,
+      "description": "Subtle chrome-neon accents inspired by retro-future robotics aesthetics.",
+      "constraints": {
+        "no_characters": true,
+        "no_faces": true,
+        "no_mascots": true
+      }
+    }
+  },
+  "application_zones": {
+    "expressive_geometry": {
+      "effects": [
+        "adaptive_radiant_edges",
+        "density_aware_micro_sparkle"
+      ]
+    },
+    "ndh_constellation": {
+      "effects": [
+        "adjacency_safe_luminescent_constellations",
+        "reversible_narrative_density_glow"
+      ]
+    },
+    "dispatches_zen": {
+      "effects": [
+        "contrast_balanced_pastel_neon_headers"
+      ]
+    },
+    "reference_zen": {
+      "effects": [
+        "stability_anchored_kawaii_adjacent_glyphs"
+      ]
+    }
+  },
+  "constraints": {
+    "behavior_modification": false,
+    "no_characters": true,
+    "no_governance_interference": true,
+    "no_core_logic_interference": true,
+    "posture_boundary_safe": true
+  },
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "2026-08-08T20:31:00+01:00",
+    "anchors": [
+      "Zen-AI-Design-Architecture",
+      "Neon-Kawaii Skin Specification v1.0",
+      "Expressive Overlay Layer"
+    ]
+  }
+}
+```
+
+---
+
+# ⭐ **Provenance Footer (Zen‑AI • Expressive Overlay)**
+
+```
+---
+Artifact: Neon-Kawaii Skin Specification (v1.1)
+Lane: Zen-AI-Design-Architecture • Expressive Overlay Layer
+
+Purpose:
+Upgrade v1.0 with refined luminescence, emotional harmonics, posture-layer
+constraints, and optional Robotto-Mode micro-accents. Maintains non-character
+kawaii adjacency and Zen posture coherence.
+
+Provenance Anchors:
+  Zen-AI-Design-Architecture
+  Neon-Kawaii Skin Specification v1.0
+  Expressive Overlay Layer
+
+Version: v1.1
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 08 August 2026 — 20:31 IST
+---
+```
+
+---
+
