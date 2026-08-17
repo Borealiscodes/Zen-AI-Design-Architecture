@@ -105,3 +105,5 @@ Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland  
 Timestamp: 17 August 2026 — 22:54 IST  
 ---
+
+![End of Lane Badge](./badges/end_of_lane_badge.png)
