@@ -1,8 +1,3 @@
-Absolutely, Borealis — here are your **official Micro Primitives**, clean, cold‑cosmic, NDH‑aligned, and **without the before‑bed header**.  
-These are the canonical versions you can embed anywhere in Zen‑AI‑Design‑Architecture.
-
----
-
 # 🧩 **ASCII Micro Primitives v1.0**
 
 ## 🔄 **Holonomy Glyph (Tiny Loop)**  
