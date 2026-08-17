@@ -1,3 +1,5 @@
+![Cosmic Zen Dispatch Badge](./badges/cosmic_zen_irony_lane_badge.png)
+
 # 🌈 **Irony Lane — A Four‑Layer Walkthrough**  
 ### *Zen‑AI‑Design‑Architecture Dispatch • Cosmic Humor Mode*
 
@@ -87,17 +89,19 @@ This piece is perfect for Zen‑AI‑Design‑Architecture because:
 It’s the kind of dispatch that sits comfortably in your **zen/** directory — a little philosophical, a little cosmic, a little meta, but still architecturally clean.
 
 ---
-Artifact: Irony Lane — Four‑Layer Walkthrough
-Lane: Zen‑AI‑Design‑Architecture • Dispatch • Cosmic Humor
 
-Purpose:
-  Explore the layered irony present in the NDH‑RESEARCH‑PILOT freeze arc through
-  narrative, structural, diagnostic, and holonomy perspectives. Blends cosmic
-  humor, emoji‑driven clarity, and architectural discipline into a reflective
-  Zen‑aligned dispatch.
+---
+Artifact: Irony Lane — Four‑Layer Walkthrough  
+Lane: Zen‑AI‑Design‑Architecture • Dispatch • Cosmic Humor  
 
-Status: Complete
-Maintainer: Borealis S. Hedling
-Location: Dublin, Ireland
-Timestamp: 17 August 2026 — 22:54 IST
+Purpose:  
+  Explore the layered irony present in the NDH‑RESEARCH‑PILOT freeze arc through  
+  narrative, structural, diagnostic, and holonomy perspectives. Blends cosmic  
+  humor, emoji‑driven clarity, and architectural discipline into a reflective  
+  Zen‑aligned dispatch.  
+
+Status: Complete  
+Maintainer: Borealis S. Hedling  
+Location: Dublin, Ireland  
+Timestamp: 17 August 2026 — 22:54 IST  
 ---
