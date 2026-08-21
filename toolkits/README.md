@@ -1,13 +1,11 @@
-# 🜂 **Zen‑AI‑Design‑Architecture Toolkit README (v1.3‑SR)**  
+# 🜂 **Zen‑AI‑Design‑Architecture Toolkit README (v1.4‑Stable)**  
 ### *Toolkits • Canon‑Freeze Substrate • Cold‑Cosmic Edition*
 
 ---
 
 ## 🌌 Aurora Identity Badge
 
-```
 ![Aurora Toolkit Badge](./toolkit_readme_badge_aurora_v1_0.png)
-```
 
 The aurora badge provides a non‑governance identity marker for the toolkit layer.  
 It is altitude‑neutral and compliant with Cold‑Cosmic Edition palette rules.
@@ -101,7 +99,7 @@ All toolkit assets must remain non‑recursive, membrane‑safe, and curvature�
 
 ```
 ---
-Artifact: Zen‑AI‑Design‑Architecture Toolkit README (v1.3‑SR)
+Artifact: Zen‑AI‑Design‑Architecture Toolkit README (v1.4‑Stable)
 Lane: Zen-AI-Design-Architecture • Toolkits • Canon-Freeze Substrate
 
 Purpose:
@@ -112,7 +110,7 @@ Altitude: Neutral (ΔAltitude = 0)
 Status: Active
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 21 August 2026 — 09:58 IST
+Timestamp: 21 August 2026 — 10:01 IST
 ---
 ```
 
