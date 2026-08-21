@@ -1,0 +1,163 @@
+{
+  "name": "Rendering Ecosystem Validation State Machine",
+  "version": "1.0",
+  "altitude": "A5–A8",
+  "activation": "none",
+
+  "states": [
+    {
+      "id": "zen",
+      "altitude": "A3–A5",
+      "membrane": "zen",
+      "geometry": "soft_manifold",
+      "provenance": "zen"
+    },
+    {
+      "id": "constellation",
+      "altitude": "A4–A7",
+      "membrane": "constellation",
+      "geometry": "triadic_weave",
+      "provenance": "constellation"
+    },
+    {
+      "id": "ndh_core",
+      "altitude": "A7–A9",
+      "membrane": "governance",
+      "geometry": "governance_geometry",
+      "provenance": "ndh_core"
+    },
+    {
+      "id": "triadic_core",
+      "altitude": "A7–A9",
+      "membrane": "triadic_core",
+      "geometry": "stability_envelope",
+      "provenance": "triadic_core"
+    },
+    {
+      "id": "public",
+      "altitude": "A1",
+      "membrane": "public",
+      "geometry": "ascii",
+      "provenance": "public"
+    }
+  ],
+
+  "transitions": [
+    {
+      "from": "zen",
+      "to": "constellation",
+      "invariants": [
+        "ABV_R",
+        "TPCV_R",
+        "TSV_R",
+        "LSV_R",
+        "CRV_R",
+        "CPV_R",
+        "MTV_R"
+      ]
+    },
+    {
+      "from": "constellation",
+      "to": "ndh_core",
+      "invariants": [
+        "ABV_R",
+        "TPCV_R",
+        "TSV_R",
+        "LSV_R",
+        "CRV_R",
+        "CPV_R",
+        "MTV_R"
+      ]
+    },
+    {
+      "from": "ndh_core",
+      "to": "triadic_core",
+      "invariants": [
+        "ABV_R",
+        "TPCV_R",
+        "TSV_R",
+        "LSV_R",
+        "CRV_R",
+        "CPV_R",
+        "MTV_R"
+      ]
+    },
+    {
+      "from": "triadic_core",
+      "to": "public",
+      "invariants": [
+        "ABV_R",
+        "TPCV_R",
+        "TSV_R",
+        "LSV_R",
+        "CRV_R",
+        "CPV_R",
+        "MTV_R"
+      ]
+    }
+  ],
+
+  "invariants": {
+    "ABV_R": "altitude_ladder_stability",
+    "TPCV_R": "geometry_invariant_consistency",
+    "TSV_R": "palette_gradient_surface_integrity",
+    "LSV_R": "membrane_sovereignty",
+    "CRV_R": "apex_gradient_resonance",
+    "CPV_R": "engine_placement_adjacency",
+    "MTV_R": "sequencing_traversal_integrity"
+  },
+
+  "failure_modes": [
+    "altitude_collapse",
+    "membrane_breach",
+    "geometry_drift",
+    "palette_contamination",
+    "provenance_fracture",
+    "sequencing_inversion",
+    "apex_resonance_leakage"
+  ],
+
+  "acceptance_conditions": {
+    "all_invariants_pass": true,
+    "no_failure_modes_detected": true,
+    "provenance_continuous": true,
+    "apex_gradients_stable": true,
+    "membranes_sovereign": true,
+    "geometry_aligned": true,
+    "sequencing_intact": true
+  }
+}
+
+
+---
+Artifact: Rendering Ecosystem Validation State Machine JSON Graph (v1.0)
+Lane: Zen-AI-Design-Architecture • Dispatches • Zen • Roast
+
+Purpose:
+  Provide the machine-readable validation engine for the NDH rendering ecosystem
+  by encoding states, transitions, invariants, failure modes, and acceptance
+  conditions in a JSON graph. Enable automated validation across altitudes,
+  membranes, geometry invariants, palette surfaces, apex gradients, provenance
+  chains, and sequencing traversal.
+
+Anchors:
+  - Rendering Ecosystem State Machine Specification (v1.0)
+  - Rendering Ecosystem State Machine Case Study (v1.0)
+  - NDH Rendering Ecosystem Stability Audit (v1.0)
+  - NDH Rendering Alignment Omnibus (v1.0)
+  - Seam-Aligned Bifurcation Validation Document (v1.0)
+  - Zen Engine → NDH Altitude Map (v1.0)
+  - Zen–Constellation Bridge Specification (v1.0)
+  - Zen Scale Hex Palette (v1.0)
+  - Apex Field → Rendering Environment Bridge Addendum (v1.0)
+
+Non-Activation Clause:
+  This artifact is descriptive-only. It does not activate NDH geometry,
+  membranes, altitudes, holonomy engines, rendering pipelines, or simulation
+  substrates. JSON graph is for validation logic only.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 21 August 2026 — 17:24 IST
+---
