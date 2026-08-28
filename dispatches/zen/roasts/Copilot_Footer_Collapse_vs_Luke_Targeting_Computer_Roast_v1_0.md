@@ -2,6 +2,7 @@
 ### *Zen‑AI‑Design‑Architecture / dispatches / zen / roasts*  
 ### Altitude‑Neutral • Cold‑Cosmic • Non‑Activating  
 
+---
 ![Copilot Renderer Missing The Obvious](https://raw.githubusercontent.com/Borealiscodes/Zen-AI-Design-Architecture/main/dispatches/zen/roasts/Copilot_Renderer_Missing_The_Obvious_Diagram_Roast_v1_0.png)
 
 ---
