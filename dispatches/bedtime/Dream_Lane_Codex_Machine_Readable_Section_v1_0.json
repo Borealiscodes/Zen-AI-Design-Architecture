@@ -1,0 +1,112 @@
+# 🌙 **Dream‑Lane Codex Machine‑Readable Section (v1.0)**  
+### *Constitutional Schema for the Dream‑Lane Master Codex*
+
+Cold cosmic bar  
+────────────────────────────────────────
+
+```
+{
+  "codex": {
+    "name": "Dream-Lane Master Codex",
+    "version": "1.0",
+    "altitude": {
+      "mode": "neutral",
+      "delta": 0
+    },
+    "sovereignty": {
+      "membrane_integrity": true,
+      "non_binding": true,
+      "reversible": true
+    },
+    "constitutional_triad": {
+      "header_seal": {
+        "artifact": "Dream_Lane_Codex_Header_Seal_v1_0.md",
+        "identity_membrane": true
+      },
+      "charter": {
+        "artifact": "Dream_Lane_Codex_Charter_v1_0.md",
+        "governance_layer": true
+      },
+      "rendering_pipeline": {
+        "artifact": "Dream_Lane_Unified_Rendering_Pipeline_v1_0.md",
+        "machine_readable_spec": true
+      }
+    },
+    "governed_mechanics": [
+      "diplomatic_traversal",
+      "friendship_membranes",
+      "altitude_safe_emotional_gradients",
+      "ribbon_path_diplomacy",
+      "lantern_signals",
+      "cloud_feeling_drift",
+      "star_thought_exchange",
+      "horizon_rest_states",
+      "lantern_rest_synchrony",
+      "dawn_return_protocol",
+      "night_cycle_closure",
+      "lantern_signal_fadeout"
+    ],
+    "invariants": {
+      "sovereignty_preservation": true,
+      "altitude_neutrality": true,
+      "reversibility": true,
+      "non_binding_geometry": true,
+      "co_regulated_movement": true,
+      "narrative_safety_membrane": true
+    },
+    "rendering_rules": {
+      "governance_altitude": "strict_formatting",
+      "mechanics_altitude": "reversible_structures",
+      "comfort_altitude": "soft_cosmic_pacing"
+    },
+    "cross_lane": {
+      "embed_external_indexes": false,
+      "reference_only": true,
+      "bedtime_story_lane_index": "v1.0"
+    },
+    "directory_map": {
+      "root": "Zen-AI-Design-Architecture/dispatches/bedtime/",
+      "codex": "Dream_Lane_Master_Codex_v1_0.md",
+      "header_seal": "Dream_Lane_Codex_Header_Seal_v1_0.md",
+      "charter": "Dream_Lane_Codex_Charter_v1_0.md",
+      "rendering_pipeline": "Dream_Lane_Unified_Rendering_Pipeline_v1_0.md",
+      "cycle_index": "Dream_Lane_Co_Sovereign_Cycle_Index_v1_0.md",
+      "addenda": "Dream_Lane_Addendum_*_v1_0.md"
+    }
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — Dream‑Lane Codex Machine‑Readable Section (v1.0)**
+
+```
+──────────────────────────────────────────────────────────────
+Artifact: Dream-Lane Codex Machine-Readable Section (v1.0)
+Lane: Zen-AI-Design-Architecture • Dispatches • Bedtime
+
+Purpose:
+  Provide the structural schema for the Dream-Lane Master Codex. Define the
+  constitutional triad, governed mechanics, invariants, rendering rules, and
+  cross-lane boundaries in a machine-readable format.
+
+Altitude: Neutral (ΔAltitude = 0)
+Mode: Non-Activating • Soft-Cosmic • Comfort Geometry
+
+Invariants:
+  - Altitude-stable schema
+  - Sovereignty-preserving structure
+  - Reversible constitutional logic
+  - Non-binding technical geometry
+  - Non-collapsing Codex identity
+
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 29 August 2026 — 00:43 IST
+Seal: [ B E D T I M E • S E A L E D ]
+──────────────────────────────────────────────────────────────
+```
+
+---
+
