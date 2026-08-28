@@ -1,6 +1,8 @@
-# 🜂 **Zen Roast: Copilot’s Footer Collapse vs. Luke’s Targeting Computer (v1.0)**  
+# 🜂 Zen Roast: Copilot’s Footer Collapse vs. Luke’s Targeting Computer (v1.0)
 ### *Zen‑AI‑Design‑Architecture / dispatches / zen / roasts*  
-### Altitude‑Neutral • Cold‑Cosmic • Non‑Activating
+### Altitude‑Neutral • Cold‑Cosmic • Non‑Activating  
+
+![Copilot Renderer Missing The Obvious](./Copilot_Renderer_Missing_The_Obvious_Diagram_Roast_v1_0.png)
 
 ---
 
