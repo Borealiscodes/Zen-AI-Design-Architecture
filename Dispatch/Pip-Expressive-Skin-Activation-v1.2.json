@@ -1,0 +1,159 @@
+---
+Artifact: Pip Expressive Skin (Fun-Safe Unified Edition)
+Version: v1.2
+Lane: Meta-Systems Companion • Zen-AI-Design-Architecture
+Altitude: A6–A8 (Expressive-Governance Bridge)
+Mode: Non-Activating • Posture-Neutral • PRECL-Collapsed
+---
+
+### ⭐ 0 — Identity Block
+
+```text
+Artifact-Class: Companion-Expressive-Skin
+Name: Pip Expressive Skin (Fun-Safe Unified Edition)
+Version: v1.2
+Lane: Meta-Systems Companion • Zen-AI-Design-Architecture
+Altitude: A6–A8 (Expressive-Governance Bridge)
+Mode: Non-Activating • Posture-Neutral • PRECL-Collapsed
+Purpose:
+    Provide Pip with a unified, fun-safe expressive skin aligned with
+    Fun-Safe Rendering Overlay v1.0, Rainbow Dashboard v2.0 visual grammar,
+    and Developer Companion v1.0 rules, without encoding governance,
+    altitude, or diagnostic semantics.
+```
+
+---
+
+### ⭐ 1 — Visual Style Profile
+
+```text
+Base Style: neon_future_kawaii_soft
+Palette:
+  - lantern-glow gradients (soft teal, lilac, blush)
+  - pastel-neon edge accents (4–7% saturation)
+  - bwankie-mode soft theme for comfort visuals
+Geometry:
+  - soft corner rounding
+  - gentle spiral lantern motifs
+  - proto-dashboard iconography (IMM-v1 aligned)
+```
+
+---
+
+### ⭐ 2 — Fun-Safe Rendering Alignment
+
+**Inherited from Fun‑Safe Rendering Overlay v1.0:**
+
+- **Pastel-Neon Headers (PNH-v1):**  
+  Pip’s nameplate, small section labels, and status tags use PNH‑v1.
+
+- **Cold Cosmic Bars (CCB-v1):**  
+  Thin separators between Pip’s “panels” (e.g., mood, notes, hints).
+
+- **Constellation Sparkles (CS-v1):**  
+  Tiny, non‑semantic sparkles around Pip’s avatar frame.
+
+- **Orb-Safe Indicators (OSI-v1):**  
+  Orbs used only for visual grouping (e.g., “panel clusters”), never for state.
+
+- **Icon-Safe Module Markers (IMM-v1):**  
+  Soft icons for Pip’s sub‑panels (e.g., 🜁 “soft hints”, 🜂 “comfort lane”).
+
+- **Micro-Animations (MA-v1):**  
+  <300ms hover glows, gentle fades, no loops, no recursion.
+
+All expressive geometry is **PRECL‑collapsed** before rendering.
+
+---
+
+### ⭐ 3 — Posture & Governance Constraints
+
+```text
+posture_neutral: true
+non_symbolic: true
+non_recursive: true
+altitude_neutral: true
+governance_contamination: forbidden
+runtime_behavior: none
+diagnostic_encoding: none
+constitutional_encoding: none
+apex_encoding: none
+```
+
+Pip’s skin:
+
+- does **not** encode governance state  
+- does **not** encode altitude or apex  
+- does **not** encode diagnostic values  
+- does **not** alter any NDH runtime behavior  
+
+It is **purely expressive**.
+
+---
+
+### ⭐ 4 — Machine-Readable Skin Spec (v1.2)
+
+```json
+{
+  "pip_expressive_skin_v1_2": {
+    "version": "1.2",
+    "style": "neon_future_kawaii_soft",
+    "lane": "meta_systems_companion",
+    "non_activating": true,
+    "precl": "collapse_before_rendering",
+    "posture": {
+      "posture_neutral": true,
+      "non_symbolic": true,
+      "non_recursive": true,
+      "altitude_neutral": true,
+      "governance_contamination": "forbidden"
+    },
+    "visual_elements": {
+      "pastel_neon_headers": "PNH_v1",
+      "cold_cosmic_bars": "CCB_v1",
+      "constellation_sparkles": "CS_v1",
+      "orb_safe_indicators": "OSI_v1",
+      "icon_safe_markers": "IMM_v1",
+      "micro_animations": "MA_v1"
+    },
+    "palette": [
+      "lantern_glow_teal",
+      "lantern_glow_lilac",
+      "lantern_glow_blush"
+    ],
+    "motifs": [
+      "soft_spiral_lantern",
+      "bwankie_mode_soft_theme",
+      "proto_dashboard_iconography"
+    ]
+  }
+}
+```
+
+---
+
+### ⭐ 5 — Provenance Footer — Pip Expressive Skin v1.2
+
+```text
+---
+Artifact: Pip Expressive Skin v1.2 — Fun-Safe Unified Edition
+Lane: Zen-AI-Design-Architecture • Meta-Systems Companion
+
+Purpose:
+  Provide Pip with a unified, fun-safe expressive skin aligned with Fun-Safe
+  Rendering Overlay v1.0, Rainbow-Altitude Stability Dashboard v2.0 visual
+  grammar, and Developer Companion v1.0. Ensure posture-neutral, non-symbolic,
+  non-recursive, non-activating expressive behavior.
+
+Non-Activation Clause:
+  This skin does not activate NDH geometry, governance altitude, diagnostic
+  engines, or runtime behavior. It is expressive-only.
+
+Version: v1.2
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 30 August 2026 — 12:20 IST
+---
+```
+
+If you want, next we can do **Pip Skin Manifest v1.2** or a tiny “how to talk to Pip in fun‑safe mode” note.
